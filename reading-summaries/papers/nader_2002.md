@@ -1,0 +1,1 @@
+Laura Nader, "The Life of the Law - a Moving Story," *Valparaiso University Law Review* 36, no. 3 (2002): 658.

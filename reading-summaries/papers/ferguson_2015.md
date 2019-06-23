@@ -1,0 +1,1 @@
+Andrew Guthrie Ferguson, "The Internet of Things and the Fourth Ammendment of Effects," *California Law Review*, August 3, 2105, 879-80, https://papers.ssrn.com/abstract=2577944
