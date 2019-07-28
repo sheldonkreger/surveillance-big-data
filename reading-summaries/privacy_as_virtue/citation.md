@@ -1,0 +1,1 @@
+Sloot, Bart van der. Privacy as Virtue: Moving beyond the Individual in the Age of Big Data. Intersentia, 2017.
