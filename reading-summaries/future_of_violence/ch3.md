@@ -1,0 +1,21 @@
+# The Future of Violence
+## The Distribution of Defense
+
+This chapter depicts the hybrid system of defensive capabilities - between private and public sector. When a corporation is attacked in the United States, for example, it is unclear who they should turn to for help. When North Korea used cyber weapons to attack Sony for releasing a movie about a fictional assasination of its leader, whose responsibility was it to protect them? In practice, at least today, these situations demand both private protection and involvement of a hodgepodge of federal agencies (FBI, CIA, NSA, etc.).
+
+Given the dire need for the protection of data, we must consider this problem more closely. There is a tradeoff between the defensive capabilities of the government to protect consumers, and the kind of surveillance the government is allowed to perform. Due to the low popularity of privacy losses, we end up placing more responsibility in the hands of private corporations - which may not actually result in better privacy in the wider scope.
+
+For example, the Commincations Assistance for Law Enforcement Act of 1994 requires that phone and internet providers respond to inquiries by law enforcement agencies to facilitate investigations. This means they are required to also maintain these poweful data sets and analytical tools on their own (but at least initially paid for by funding in the bill). This program expanded along with technological developments, and by 2014, the NSA and CIA were secretly pushing private companies to maintain encryption backdoors in smart phones and computer hardware. This would allow law enforcement and counter-terror agencies to read data related to investigations by working closely with tellecommunications companies.
+
+In 2012, the Foreign Intelligence Surveillance Act of 1978 was renewed and expanded. This allowed unwarranted monitoring of foriegn communications data in a very broad manner - so long as the targets were "reasonably believed" to be located overseas. This is not always easy to determine nor is it accurate, especially when analyzing many (perhaps many million) targets simultaneously in a big data system.
+
+The authors argue that the cooperation between government agencies and private corporations is more than that - it's actually a fundamental shift in defensive power from public to private sector. This is because the defensive capabilities of a product must be built into the product by the manufacturer. For example, anti-counterfiet technology in high-end laser printers isn't something that the FBI could externally impose upon potential criminals - it has to be part of the printer iteself. This line of logic extends to phones, computers, airplanes, cars - just about anything that could be subject to a hack.
+
+This state of 'distributed defense', the authors argue, is problematic. First, from a legal perpsective, the Constitution itself was written under the assumption that the government - not private companies - held responsibility for defending its citizens. On a practical level, the centralization of defensive power affords a great level of coordination and leadership which is impossible to replicate when many private companies are implementing their own solutions independently. 
+
+However, if a future bioweapon could originate from potentially thousands of private labs, some responsibility will have to fall on these labs and biotech companies to mitigate this risk. These kinds of examples show why the authors continue to argue that distributed defensive capaibilities will need to become much more commonplace in the future.
+
+Although challenging on many levels, distributed defense is necessary for three reasons:
+- The ability for distributed actors (as opposed to nation states) to cause damage is growing faster than governmental authority to stop them.
+- The same technologies which empower individuals to perform attacks often also give them power to defend themselves.
+- Organizations that build these tools are already developing defensive capabilities, either for liability reasons or because consumers demand it.
