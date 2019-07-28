@@ -1,1 +1,1 @@
-Wittes, Benjamin, and Gabriella Blum. The Future of Violence: Robots and Germs, Hackers and Drones: Confronting a New Age of Threat. Basic Books, 2015.
+Zuboff, Shoshana. The Age of Surveillance Capitalism: the Fight for a Human Future at the New Frontier of Power. PublicAffairs, 2019.
