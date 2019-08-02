@@ -42,4 +42,47 @@ It is important to frame the conversation around surveillance, big data, and pri
 
 ## Emerging Grey Orbs
 
-In their book "The Future of Violence"
+In their book "The Future of Violence", Gabriella Blum (Harvard Law Professor) and Benjamin Wittes (Senior Fellow in Governance Studies at the Brookings Institution) outline 'technologies of empowerment' which will give individuals or small groups the capability to cause major catastrophes. These fall into four categories:
+
+- Bioweapons, where an individual uses lab equipment to create a virus or other infectious agent. Such equipment could be used at work in a commercial setting, at a university in a research setting, and as time passes, lab equipment could be come more affordable for individuals to own. Advanced manipulations to viruses and other bioweapons will become easier to execute with less equipment and knowledge.
+- Cyberspace (networked computers), where individuals can already mount sizeable infrastructure attacks (such as a distributed denial of service or DDOS) with minimal technical knowledge. Cyber attacks threaten software systems which control life-supporting technologies such as electrical grids, and also military equipment such as control systems for nuclear weapons. The recent expansion of cyberspace has created a vast domain of attack vectors, each of which is potentially exploitable by an individual rogue actor.
+- Robotics, in which a person could piece together pre-manufactured components to create something unforseen and dangerous. Or, they might reprogram a fully operational unit to perform tasks outside its intended purpose. For example, a small army of drones with guns attached to them. Military drones could also be hacked and and used by nefarious actors. Another example in the book is "Metal Storm", which was created by a grocery store worker. It's a gun that uses electricy rather than gunpowder, which results in an astonishing rate of fire - up to 1 million rounds per minute.
+- Nanotechnology, which is in early stage and not yet under the realm of 'mass empowerment.' Surveillance data, ripe for exploitation, will grow exponentially in size and detail. Manufacturing of virtually all goods will be radically changed as the technology develops, not only because of revolutionary new materials, but because constuction of components can be decentralized: Imagine a nanotechnology 'printer' which can create - atom by atom - all of your household goods from basic elements like carbon. This of course creates unprecedented risks for weapons manufacturing. Furthermore, nano-sized robots could be used in a 'swarm' to attack infrastructure or people.
+
+NEXT SLIDE
+
+We have already seen examples of individuals manufacturing weapons at home using 3D printers. The first person in the UK to be convicted for using a 3D printer to manufacture a gun was Tendai Muswere, 26, and he pleaded guilty at Southwark crown court on Wednesday to the charge of manufacturing a 3D printed gun. A subsequent police search of Muswere’s browsing history revealed he had watched videos demonstrating how to manufacture a firearm capable of firing live ammunition using a 3D printer.
+
+Thankfully, such weapons do not pose unprecedented risks - and they actually look quite pathetic in comparison to what we can buy from dealers here in the US. But the underlying process of downloading instructions and creating weapons at home will become a serious problem in the near future.
+
+The question, of course, is how to best respond to this challenge. One may be tempted to place the responsibility on internet corporations to patrol forums and shut down illegal activity as it arises. This is the existing way of doing things, and as we can see, it leaves too much room for imperfect policing, depending on the desires and resources of the companies in question.
+
+## Surveillance Capitalism
+
+But, there are many other reasons why this will not work. My argument is that relying upon tech companies to enforce policies designed to prevent massive catastrophes is not only inneffective, but it is extremely dangerous. This is because such bohemoths have historically abused the data they collect on individuals in order to exploit them later on. They have also failed to retain security over sensitive data. And, the data required to end Bostrom's 'semi-anarchic state' will be extremely diverse and sensitive in nature.
+
+Shoshana Zuboff, one of Havard Business School's first tenured female professors, provides a impressive account of this problem in her 2019 masterpiece *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. Having spent more than a decade interviewing top data scientists, engineers, and exectuives at major tech companies, Zuboff has documented the emergence of an unprecedented form of power called *instrumentarianism*.
+
+Referencing several public lectures, presentations, and articles from tech industry leaders, Zuboff clarifies a narrative in which Silicon Valley businesses are racing for a complete system of surveillance and analysis. Through a rapidly expanding network of sensors, companies collect behavioral data and make predictions about future behavior. This data is currently used primarily to target advertisements to the consumers who are most likely to buy a product, based on mathematical analysis of previous behaviors. This process Zuboff calls *the prediction imperative* and is paired with the *extraction imperative*, or the endless drive to amass behavioral data. And, of course, the unrestrained nature of capitalism means these imperatives have no boundaries, as long as they remain profitable.
+
+NEXT SLIDE
+
+We are familiar with these systems in our every day lives, when we visit specific web pages and later recieve advertisements about those topics. Zuboff's work reveals, however, that the agenda reaches far beyond targeted advertising, but toward behavioral modification in general. Although profitability remains a top priority in surveillance capitalism, there are noteworthy techniques at play in later developments:
+
+- *Tuning* involves queuing or nudging a user to follow a series of actions at a precise time and place.
+- *Herding* involves controlling key aspects of a person's immediate context, and therefore forcing them to take a specific action. Disallowing a drunk person from starting their car (based on sensor data) would push the person out of the car toward purchasing a ride.
+- *Conditioning* is a long-standing appraoch to modifying behavior, most often associated with Harvard Psychologist BF Skinner. By providing environmental conditions and reinforcements for specific sequences of behavoir, individuals can be modified to perform specific routines. Skinner called this manipulation *behavioral engineering* and the work of BF Skinner has been a major influence among tech industry leaders.
+
+One controversial example of tuning was detailed in a 2012 article in *Nature*, where Facebook engineers had manipulatad 61 million individual news feeds in the run-up to the 2010 congressional election. 
+
+> One group was shown a statement at the top of their news feed encouraging the user to vote. It included a link to polling place information, an actionable buttion reading "I Voted," a counter indicating how manyu other Facebook users reported voting, and up to six profile pictures of the user's Facebook friends who had already clicked the "I Voted" button. A second group received the same information but without the pictures of friends. A third control group did not receive any special message.
+> 
+> . . . Users who recieved the social message wer about 2 percent more likely to click on the "I Voted" button than those who received the information alone and 0.26 more likely to click on polling place information. Facebook experimenters determined that social messageing was an effective means of tuning behavior at scale because it "directly influenced political self-expression, information seeking and real-world voting behavior of millions of people," and they concluded that "showing familiar faces to users can dramatically improve the effectiveness of a mobilization message."
+
+NEXT SLIDE
+
+There are more and more examples of these kinds of studies in this explosive domain of sociology. While it may seem far-fetched to think these companies can dictate our behavior, take a moment to think about the influence they already have over us. Have you ever chosen a restaurant based on Yelp reviews? Or maybe you found a doctor with a Google search? Any of your friends meet their partners through dating apps? When your cousin was married, did you find out on Facebook, or did they send you a letter first? Have you ever chosen a different route or completely changed your plans because of traffic alerts sent to your phone? We have been conditioned to these seemingly minor changes over the period of 10 or 15 years. Individually, they seem benign, but cumulitavely it represents an unprecedented shift in power which Zuboff argues is on the same scale of the rise of Totalitarianism in the 1900s (but, thankfully, without the physical violence). Rather than being convinced to join a cause and fight a political battle, we are instead *radically indifferent*, responding to the convenient queues surrounding us and then submitting our behavioral data, in an endless cycle to concentrate power in ways never before seen.
+
+NEXT SLIDE
+
+On the one hand, we see the inevitable rise of *technologies of mass empowerment*, which will allow small groups or individual rogue actors to execute catastrophic attacks against large populations. On the other hand, we see the power of corporations 
