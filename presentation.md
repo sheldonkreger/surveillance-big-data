@@ -85,4 +85,28 @@ There are more and more examples of these kinds of studies in this explosive dom
 
 NEXT SLIDE
 
-On the one hand, we see the inevitable rise of *technologies of mass empowerment*, which will allow small groups or individual rogue actors to execute catastrophic attacks against large populations. On the other hand, we see the power of corporations 
+On the one hand, we see the inevitable rise of *technologies of mass empowerment*, which will allow small groups or individual rogue actors to execute catastrophic attacks against large populations. On the other hand, we see the broadening power of corporations through the manipulation of individual behavior. This leaves us one final area to examine, which is the government's surveillance activities.
+
+Under the Foreign Intelligence Surveillance Act (FISA), Section 702, government agencies are allowed to surveil any non-US citizens outside the country. Spying on adversaries is standard procedure in countries around the world, and the US has maintained this capability for many reasons and it remains largely uncontroversial. In contrast, surveillance targetting US citizens is extremely controversial because of fourth ammendment protections. This surprising double-standard has created logistical complications which are unthinkable in other countries in the world.
+
+Spy agencies work with telecommunications companies to organize and fund special directives to facilitate these missions, which are supervised by a special Foriegn Intelligence Surveillance Court.
+
+> This is where Section 702 starts to become worrisome. While 702 is targeted and is used to collect only a tiny percentage of the world’s communications, it still does involve massive scale. About 100,000 persons are targeted per year. This yields a lot of information. According to a FISA opinion cited by the PCLOB, in 2011, when the number of selectors was smaller than it is today, the government acquired 250 million Internet communications, in addition to telephone conversations. And much of this information relates to persons other than the targets. The Washington Post conservatively estimated that for each targeted person the communications of at least 9 other people are collected.
+> By definition, when the government is collecting the communications of a target, it is collecting the communications of those on the other end of the communications.  Even when the government is targeting only non-citizens abroad, it is certain to collect communications to and from citizens and persons in this country -- persons not suspected of any wrongdoing and not suspected of communicating anything of intelligence value.
+> The government claims the authority to search those communications whenever a US citizen comes to its attention in circumstances justifying further examination. After all, the government argues, the very first step in any government investigation or analysis is to ask “Do we already have anything in our files about this person?” But searching the 702 repository means that the government is able to retrieve communications of a US person without a court order – communications that the government could not have targeted without a court order in the first place.
+
+https://www.acslaw.org/expertforum/section-702-renewal-opportunities-lost-and-gained/
+JIM DEMPSEY Executive Director, Berkeley Center for Law and Technology Jan 29,2018
+
+Furthermore, if a domestic target is identified coincidentally while conducting foriegn surveillance, this justifies a warrant to target that individual for further investigation.
+
+Due to the complexity and senstive nature of surveillance, many questions remain unresolved, with ammendments proposed to the FISA legislation as recenlty as June 2019.
+
+It is significant that such operations are only possible through cooperation with corporations who have - or have the means to acquire - the data in question. Unlike the government, private companies are not held to fourth ammendment standards as they manifest the *extraction imperitave* in their day-to-day ongoings. There are surprisingly few restrictions on what kinds of data a corporation can amass if a user agrees to a privacy policy. On top of all this, after the Snowden compromise, legislation was created to prevent the NSA and other agencies from maintaining their own databases for telecommunications records. Instead, identical records are maintained by the telecommunications company themselves, and government analysts must file special requests to have them run queries.
+
+This raises a number of significant questions:
+
+1. What justifies the disparity in authority between government agencies - who seek to protect us - and private corporations - who seek to exploit us?
+2. Given the frequency and scale of corporate database compromises, is it wise to trust them with securing this sensitive data, rather than allowing the government to handle it on their own?
+3. 
+
